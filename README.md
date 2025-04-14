@@ -1,9 +1,9 @@
 # MachineLearning_MallCustomersClustering
 
- ##Project Overview
+ ## Project Overview
 Customer segmentation is a popular application of unsupervised learning that helps businesses target specific user groups more effectively. In this project, we use K-Means Clustering to identify distinct customer groups based on their characteristics such as gender, age, interests, annual income, and spending habits. The insights derived can be leveraged to design customized marketing strategies and improve business revenue.
 
- ##Problem Statement
+ ## Problem Statement
 A shopping mall wants to identify potential high-value customers by analyzing its customer base. The goal is to:
 
 Segment customers into clusters based on their behavior and demographic features.
@@ -47,6 +47,6 @@ K-Means Clustering
 
 Data Preprocessing & Visualization
 
-✅ Conclusion
+## Conclusion
 This project demonstrates how unsupervised learning techniques like K-Means can be effectively used to derive business value from customer data. By identifying and understanding different customer segments, businesses can apply more strategic and data-driven marketing decisions.
 
